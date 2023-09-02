@@ -7,19 +7,6 @@ document.addEventListener("mousemove",function(dets){           //dets -> tell a
     blur.style.top=dets.y -250 +"px"
 })
 
-// var h4all = document.querySelector("#nav h4")
-// h4all.forEach(function(elem){
-//     elem.addEventListener("mouseenter",function(){
-//         csr.style.scale=3
-//         csr.style.border="1px solid #fff"
-//         csr.style.backgroundColor="transparent"
-//     })
-//     elem.addEventListener("mouseleave",function(){
-//         csr.style.scale=1
-//         csr.style.border="0px solid #95C11E"
-//         csr.style.backgroundColor="#95C11E"
-//     })
-// })
 
 
 
